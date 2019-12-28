@@ -1,0 +1,9 @@
+C:\Users\Sherry\source\repos\myAssistant1\myAssistant1\obj\Debug\myAssistant1.csprojAssemblyReference.cache
+C:\Users\Sherry\source\repos\myAssistant1\myAssistant1\obj\Debug\myAssistant1.Form1.resources
+C:\Users\Sherry\source\repos\myAssistant1\myAssistant1\obj\Debug\myAssistant1.Properties.Resources.resources
+C:\Users\Sherry\source\repos\myAssistant1\myAssistant1\obj\Debug\myAssistant1.csproj.GenerateResource.cache
+C:\Users\Sherry\source\repos\myAssistant1\myAssistant1\bin\Debug\myAssistant1.exe.config
+C:\Users\Sherry\source\repos\myAssistant1\myAssistant1\bin\Debug\myAssistant1.exe
+C:\Users\Sherry\source\repos\myAssistant1\myAssistant1\bin\Debug\myAssistant1.pdb
+C:\Users\Sherry\source\repos\myAssistant1\myAssistant1\obj\Debug\myAssistant1.exe
+C:\Users\Sherry\source\repos\myAssistant1\myAssistant1\obj\Debug\myAssistant1.pdb
